@@ -9,6 +9,8 @@ Use as follows:
 
 You can look for more one expression. The basic operator is OR. If an element contains more than one expression, it will be added again to the output file. 
 
+The regexp search is case insensitive.
+
 Output files are placed in the same folder. The script outputs both JSON and TXT files for ease of use.
 
 The script names each files using the arguments passed. 
